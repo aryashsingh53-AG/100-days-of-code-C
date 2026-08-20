@@ -1,4 +1,4 @@
-Day 1 - Introduction to C
+Day 1 - Introduction to C 
 Day 2 - Structure of a C Program
 Day 3 - Variables and Constants
 Day 4 - Data Types

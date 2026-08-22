@@ -7,101 +7,197 @@ Day 3 - Variables and Constants
 Day 4 - Data Types
 
 Day 5 - Input and Output
+
 Day 6 - Operators
+
 Day 7 - Arithmetic Operators
+
 Day 8 - Relational Operators
+
 Day 9 - Logical Operators
+
 Day 10 - Assignment Operators
+
 Day 11 - Increment and Decrement Operators
+
 Day 12 - Conditional Operator
+
 Day 13 - Type Casting
+
 Day 14 - If Statement
+
 Day 15 - If-Else Statement
+
 Day 16 - Nested If-Else
+
 Day 17 - Else-If Ladder
+
 Day 18 - Switch Statement
+
 Day 19 - For Loop
+
 Day 20 - While Loop
+
 Day 21 - Do-While Loop
+
 Day 22 - Break Statement
+
 Day 23 - Continue Statement
+
 Day 24 - Nested Loops
+
 Day 25 - Pattern Printing
+
 Day 26 - Number Patterns
+
 Day 27 - Star Patterns
+
 Day 28 - Functions Introduction
+
 Day 29 - Function Parameters
+
 Day 30 - Return Values
+
 Day 31 - Call by Value
+
 Day 32 - Recursion
+
 Day 33 - Arrays Introduction
+
 Day 34 - One-Dimensional Arrays
+
 Day 35 - Array Operations
+
 Day 36 - Searching in Arrays
+
 Day 37 - Linear Search
+
 Day 38 - Sorting Arrays
+
 Day 39 - Bubble Sort
+
 Day 40 - Selection Sort
+
 Day 41 - Insertion Sort
+
 Day 42 - Two-Dimensional Arrays
+
 Day 43 - Matrix Addition
+
 Day 44 - Matrix Multiplication
+
 Day 45 - Strings Introduction
+
 Day 46 - String Input and Output
+
 Day 47 - String Functions
+
 Day 48 - String Length
+
 Day 49 - String Copy
+
 Day 50 - String Comparison
+
 Day 51 - String Concatenation
+
 Day 52 - Pointers Introduction
+
 Day 53 - Pointer Variables
+
 Day 54 - Pointers and Arrays
+
 Day 55 - Pointers and Functions
+
 Day 56 - Pointer Arithmetic
+
 Day 57 - Multiple Pointers
+
 Day 58 - Structures Introduction
+
 Day 59 - Structure Variables
+
 Day 60 - Array of Structures
+
 Day 61 - Nested Structures
+
 Day 62 - Unions
+
 Day 63 - Enumerations
+
 Day 64 - Typedef
+
 Day 65 - File Handling Introduction
+
 Day 66 - Reading Files
+
 Day 67 - Writing Files
+
 Day 68 - File Modes
+
 Day 69 - Command Line Arguments
+
 Day 70 - Dynamic Memory Allocation
+
 Day 71 - malloc()
+
 Day 72 - calloc()
+
 Day 73 - realloc()
+
 Day 74 - free()
+
 Day 75 - Linked List Introduction
+
 Day 76 - Creating a Linked List
+
 Day 77 - Inserting in Linked List
+
 Day 78 - Deleting from Linked List
+
 Day 79 - Searching in Linked List
+
 Day 80 - Stack Introduction
+
 Day 81 - Stack Using Array
+
 Day 82 - Queue Introduction
+
 Day 83 - Queue Using Array
+
 Day 84 - Circular Queue
+
 Day 85 - Recursion Problems
+
 Day 86 - Fibonacci Series
+
 Day 87 - Factorial Program
+
 Day 88 - Prime Number Problems
+
 Day 89 - Palindrome Problems
+
 Day 90 - Armstrong Number
+
 Day 91 - Number Reversal
+
 Day 92 - GCD and LCM
+
 Day 93 - Basic C Problem Solving
+
 Day 94 - Array Problem Solving
+
 Day 95 - String Problem Solving
+
 Day 96 - Pointer Problem Solving
+
 Day 97 - Structure Problem Solving
+
 Day 98 - File Handling Project
+
 Day 99 - C Programming Revision
+
 Day 100 - Final C Programming Project 
+
 100-days-of-code-c
 Day 1 - Hello World
 #include <stdio.h>

@@ -1,7 +1,11 @@
 Day 1 - Introduction to C 
+
 Day 2 - Structure of a C Program
+
 Day 3 - Variables and Constants
+
 Day 4 - Data Types
+
 Day 5 - Input and Output
 Day 6 - Operators
 Day 7 - Arithmetic Operators

@@ -624,4 +624,4 @@ int main(){int n=5;int sum=0;for(int i=1;i<=n;i++)sum+=i;printf("Sum = %d",sum);
 
 Day 100 - Final C Project
 #include <stdio.h>
-int main(){int a,b;printf("Enter two numbers: ");scanf("%d%d",&a,&b);printf("Addition = %d\n",a+b);printf("Subtraction = %d\n",a-b);printf("Multiplication = %d\n",a*b);printf("Division = %d\n",a/b);return 0;}
+int main(){int a,b;printf("Enter two numbers: ");scanf("%d%d",&a,&b);printf("Addition = %d\n",a+b);printf("Subtraction = %d\n",a-b);printf("Multiplication = %d\n",a*b);printf("Division = %d\n",a/b);return 0;} 

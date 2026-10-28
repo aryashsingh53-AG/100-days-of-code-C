@@ -600,7 +600,7 @@ int main(){int a=10,b=20;a=a+b;b=a-b;a=a-b;printf("%d %d",a,b);return 0;}
 
 Day 94 - Decimal to Binary
 #include <stdio.h>
-int main(){int n=10,b[10],i=0;while(n){b[i++]=n%2;n/=2;}while(i--)printf("%d",b[i]);return 0;}
+int main(){int n=10,b[10],i=0;while(n){b[i++]=n%2;n/=2;}while(i--)printf("%d",b[i]);return 0;} 
 
 Day 95 - Binary to Decimal
 #include <stdio.h>
